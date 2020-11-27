@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 7a99c6846fddea746b067688610dc50e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -211584962510526118
+    second: BraidRunAnimation_0
+  - first:
+      213: -1122391348732358821
+    second: BraidRunAnimation_1
+  - first:
+      213: -9086498047320701846
+    second: BraidRunAnimation_2
+  - first:
+      213: -2508739189856326785
+    second: BraidRunAnimation_3
+  - first:
+      213: 1519259698406142087
+    second: BraidRunAnimation_4
+  - first:
+      213: 1056190186860784920
+    second: BraidRunAnimation_5
+  - first:
+      213: -8800571423594214242
+    second: BraidRunAnimation_6
+  - first:
+      213: 4204071366319710120
+    second: BraidRunAnimation_7
+  - first:
+      213: 4817623979641271451
+    second: BraidRunAnimation_8
+  - first:
+      213: -8984649192629653270
+    second: BraidRunAnimation_9
+  - first:
+      213: -7079720349881386246
+    second: BraidRunAnimation_10
+  - first:
+      213: -713123112048390498
+    second: BraidRunAnimation_11
+  - first:
+      213: -6647207689399496161
+    second: BraidRunAnimation_12
+  - first:
+      213: -4307656360146852140
+    second: BraidRunAnimation_13
+  - first:
+      213: -4022207396551583663
+    second: BraidRunAnimation_14
+  - first:
+      213: -5458574117228249731
+    second: BraidRunAnimation_15
+  - first:
+      213: 9164870687108888412
+    second: BraidRunAnimation_16
+  - first:
+      213: -4835721650626180175
+    second: BraidRunAnimation_17
+  - first:
+      213: 3306101892229387306
+    second: BraidRunAnimation_18
+  - first:
+      213: -6415803812334657151
+    second: BraidRunAnimation_19
+  - first:
+      213: -7820844488934658141
+    second: BraidRunAnimation_20
+  - first:
+      213: -971522350099773709
+    second: BraidRunAnimation_21
+  - first:
+      213: 2429630428773996412
+    second: BraidRunAnimation_22
+  - first:
+      213: -4871904404521822059
+    second: BraidRunAnimation_23
+  - first:
+      213: 380691845628306275
+    second: BraidRunAnimation_24
+  - first:
+      213: -8733465111478379558
+    second: BraidRunAnimation_25
+  - first:
+      213: 2486314788197666308
+    second: BraidRunAnimation_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BraidRunAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c640161f116c4084858f340e33fc4
+      internalID: -211584962510526118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68873efab3e304d47858cec71f1e8eea
+      internalID: -1122391348732358821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0061000e0ac49564e8dd78fad3d08107
+      internalID: -9086498047320701846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61477be4eff971044826c964d34c3fb4
+      internalID: -2508739189856326785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b617479c22a145991ef9e1942d22b
+      internalID: 1519259698406142087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8652cf87c54b54a9594371d7ba9d0a
+      internalID: 1056190186860784920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 260.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfeac75ce4b5ca4a8bff22e3bc3637a
+      internalID: -8800571423594214242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6624e1e1d9469454f9b7f20a3ca7cfb8
+      internalID: 4204071366319710120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775bdb5aca31b464e85dfe0629e8191a
+      internalID: 4817623979641271451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d1dbf5987ab546b4e3fcf4cccc356
+      internalID: -8984649192629653270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01de55a0feb2043824451f7047442c
+      internalID: -7079720349881386246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39aa05d5910d440bec587dab673131
+      internalID: -713123112048390498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb78d59fa5ba7e4d9d605b5dcdedf1f
+      internalID: -6647207689399496161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 174.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5964d47dd1bc45a708e8148e1df89
+      internalID: -4307656360146852140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7e1f001c793e348bfa07dadfc99a1e
+      internalID: -4022207396551583663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd049c982bc434391657aabefdd5c8
+      internalID: -5458574117228249731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d614de893215cd41ab5d7b5d539ebe1
+      internalID: 9164870687108888412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071effbd5b00c946b4bc21278dced01
+      internalID: -4835721650626180175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30bceb9cf37ec41beb63dbb44e03c7
+      internalID: 3306101892229387306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04bbb9162ec9494cbc9a825bde14fca
+      internalID: -6415803812334657151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 88.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e72846026781469da9093f05a6922
+      internalID: -7820844488934658141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c1ebe4b17d79a40893ef852d66d244
+      internalID: -971522350099773709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614eda83669a1c4eb9291a4a48af16e
+      internalID: 2429630428773996412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40c7c1b5147ab4d82f9594f9cf54f0
+      internalID: -4871904404521822059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d80ca13e574494dbd196179b7798e9
+      internalID: 380691845628306275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da910d1d7896b294ea51bba4e1ea5c07
+      internalID: -8733465111478379558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BraidRunAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2.25
+        width: 74.28571
+        height: 86.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e570983c537345a0f834434d8a43a
+      internalID: 2486314788197666308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
